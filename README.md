@@ -1,7 +1,6 @@
 # genshin.fanart-discord_bot
 A discord bot that sends fanart of genshin impact characters in the channels (set in config.json file) and never repeats the same image url. It also saves them in separate character txt files.
-# genshin.fanart-discord_bot
-A discord bot that sends fanart of genshin impact characters in the channels (set in config.json file) and never repeats the same image url. It also saves them in separate character txt files.
+
 #STEPS:
 - Run npm install:
   - add the discord bot token in config.json file.
